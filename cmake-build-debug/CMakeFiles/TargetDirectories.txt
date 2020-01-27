@@ -1,0 +1,3 @@
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/TPA/recursiveVSiterative/cmake-build-debug/CMakeFiles/recursiveVSiterative.dir
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/TPA/recursiveVSiterative/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/TPA/recursiveVSiterative/cmake-build-debug/CMakeFiles/rebuild_cache.dir
